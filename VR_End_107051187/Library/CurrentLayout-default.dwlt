@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 3}
-  m_MinSize: {x: 875, y: 763}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -72,7 +72,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 1037
-  m_MinSize: {x: 875, y: 763}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &4
 MonoBehaviour:
@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 713}
   m_MaxSize: {x: 18004, y: 18063}
   vertical: 0
-  controlID: 70
+  controlID: 79
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -195,7 +195,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 713}
   m_MaxSize: {x: 10002, y: 18063}
   vertical: 1
-  controlID: 71
+  controlID: 125
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -388,9 +388,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d6400000
-    m_LastClickedID: 16598
-    m_ExpandedIDs: 00000000d6400000d8400000da400000dc400000de40000000ca9a3b
+    m_SelectedIDs: 62350000
+    m_LastClickedID: 13666
+    m_ExpandedIDs: 00000000623500006435000066350000683500006a35000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -418,7 +418,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d6400000d8400000da400000dc400000de400000
+    m_ExpandedIDs: 00000000623500006435000066350000683500006a350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -652,7 +652,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.042652752, y: 0.93956417, z: -0.1264174, w: 0.31549683}
     speed: 2
-    m_Value: {x: 0.042177036, y: 0.93969655, z: -0.1250004, w: 0.31554157}
+    m_Value: {x: 0.042652752, y: 0.9395642, z: -0.1264174, w: 0.31549683}
   m_Size:
     m_Target: 6.666044
     speed: 2
@@ -709,10 +709,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4c400000
-      m_LastClickedID: 16460
-      m_ExpandedIDs: badbffff
+      scrollPos: {x: 0, y: 48}
+      m_SelectedIDs: 6a330000
+      m_LastClickedID: 13162
+      m_ExpandedIDs: 6afbffffe6330000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
